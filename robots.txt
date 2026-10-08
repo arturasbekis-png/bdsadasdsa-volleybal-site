@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# TODO: pridėti galutinį domeną, kai bus žinomas
+# Sitemap: https://TODO-domenas/sitemap.xml
